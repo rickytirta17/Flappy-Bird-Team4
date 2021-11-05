@@ -1,7 +1,17 @@
-# Flappy-Bird-Team4
-Computer Graphics: Flappy Bird With C++
-Team 4:
-1:
-2:
-3:
-4:
+# FlappyBird Team4
+------------------------------------------------------------------------------
+
+## DESCRIPTION 
+
+This repositories was made for our project called "Flappy Bird With C++". We'll work, edit, upload, and do some stuff to change/improve our project here.
+
+------------------------------------------------------------------------------
+
+## Collaborators
+
+-  
+- 
+- 
+- 
+
+------------------------------------------------------------------------------
