@@ -9,9 +9,9 @@ This repositories was made for our project called "Flappy Bird With C++". We'll 
 
 ## Collaborators
 
--  
-- 
-- 
-- 
+-  Norma Alfina
+-  Refanza Pradiptha
+-  Ricky Tirta
+-  Salah Abdullah
 
 ------------------------------------------------------------------------------
