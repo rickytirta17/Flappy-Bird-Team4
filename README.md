@@ -3,7 +3,7 @@
 
 ## DESCRIPTION 
 
-This repositories was made for our project called "Flappy Bird With C++". We'll work, edit, upload, and do some stuff to change/improve our project here.
+This repositories was made for our project called "Flappy Bird With C#". We'll work, edit, upload, and do some stuff to change/improve our project here.
 
 ------------------------------------------------------------------------------
 
