@@ -53,10 +53,12 @@
     <UnityVersion>2020.3.21f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Move.cs" />
     <Compile Include="Assets\FlyLittleBird.cs" />
     <Compile Include="Assets\PipeSpawner.cs" />
-    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Score.cs" />
+    <Compile Include="Assets\AddScore.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

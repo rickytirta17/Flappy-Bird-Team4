@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -10,7 +11,8 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         Time.timeScale = 1;
-        
+        gameOverCanvas.SetActive(false);
+
     }
 
     // Update is called once per frame
@@ -19,5 +21,10 @@ public class GameManager : MonoBehaviour
         gameOverCanvas.SetActive(true);
         Time.timeScale = 0;
         
+    }
+
+    public void Replay()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 }
